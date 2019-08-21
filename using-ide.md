@@ -22,7 +22,7 @@ Flutter插件在Android Studio或IntelliJ IDE中提供完全集成的开发体�
 
 1. 打开 preferences (**IntelliJ IDEA>Check for Updates...** on macOS,
 **Help>Check for Updates...** on Linux).
-1. 如果有 `dart` 后者`flutter`被列出, 更新它们.
+1. 如果有 `dart` 或者`flutter`被列出, 更新它们.
 
 ## 创建项目
 
